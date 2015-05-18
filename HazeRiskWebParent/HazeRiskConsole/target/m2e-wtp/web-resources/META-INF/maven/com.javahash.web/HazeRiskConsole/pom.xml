@@ -2,11 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.javahash.web</groupId>
-    <artifactId>HazeRiskRoot</artifactId>
+    <artifactId>HazeRiskWebParent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>HazeRiskConsole</artifactId>
   <packaging>war</packaging>
+  
   <dependencies>
   	<dependency>
   		<groupId>com.javahash.web</groupId>
